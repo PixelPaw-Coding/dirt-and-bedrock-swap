@@ -88,9 +88,8 @@ DirtBedrockSwap/
 ---
 
 ## Credits & license
-- Created by [Your Name or Project Name].  
-- Free to share, modify, and redistribute for personal or server use. Credit is appreciated but not required.  
-- Optional: CC0 / CC-BY / MIT for a stricter license.
+- Created by PixelPaw P..  
+- Licensed under MIT License
 
 ---
 
